@@ -1,0 +1,5 @@
+{
+  "name": "AI Waiter Assistant",
+  "description": "An AI-powered chatbot to assist waiters in taking orders, managing tables, and processing payments through a natural language interface.",
+  "requestFramePermissions": []
+}
